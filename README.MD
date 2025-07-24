@@ -39,5 +39,6 @@ Buzz Bee is a friendly assistant that helps community members stay informed abou
 
 If you have feedback or would like Buzz Bee to monitor other topics, please contact the project maintainer through GitHub.
 
-(NOTE: README generated mostly with AI in its current state)
 ---
+
+(NOTE: README generated mostly with AI in its current state)
